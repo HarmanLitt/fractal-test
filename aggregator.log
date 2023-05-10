@@ -1,0 +1,2 @@
+[2023-05-10T14:07:05.033Z] error: MQTT client encountered an error: connect ECONNREFUSED ::1:1883
+[2023-05-10T14:07:06.039Z] error: MQTT client encountered an error: connect ECONNREFUSED ::1:1883
