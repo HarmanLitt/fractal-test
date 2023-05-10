@@ -1,4 +1,3 @@
-// mqttClient.test.ts
 import { start, childTopics, parentTopic, isValidMessage } from '../index';
 import mqtt, { MqttClient } from 'mqtt';
 import logger from '../logger';
